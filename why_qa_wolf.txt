@@ -1,0 +1,14 @@
+Dear QA Wolf Team,
+
+I am excited about the prospect of joining QA Wolf because of the company's commitment to revolutionizing the field of automated testing. QA Wolf's innovative approach to testing automation, centered around the developer workflow and utilizing modern tools like Playwright, aligns perfectly with my vision for the future of QA engineering.
+
+One aspect of QA Wolf that particularly resonates with me is the emphasis on empowering QA engineers and developers alike. By providing a seamless integration with existing CI/CD pipelines and enabling tests to be written in familiar languages like JavaScript, QA Wolf enables teams to adopt automated testing more easily and efficiently.
+
+Furthermore, I am drawn to QA Wolf's remote-first culture and commitment to creating a supportive and inclusive work environment. As a remote worker, I value the flexibility and autonomy that comes with working remotely, and I am excited about the opportunity to collaborate with a diverse team of talented individuals from around the world.
+
+In summary, I want to work at QA Wolf because I believe in the company's mission to simplify and democratize automated testing, and I am eager to contribute my skills and expertise to help QA Wolf achieve its goals.
+
+Thank you for considering my application. I am looking forward to the possibility of joining the QA Wolf team and making a meaningful impact together.
+
+Kind regards
+Doncho Borisov
